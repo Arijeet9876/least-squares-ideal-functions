@@ -1,3 +1,4 @@
+
 # Least Squares Ideal Functions
 
 This repository contains a Python-based implementation for selecting ideal functions using the least squares criterion and assigning test data points based on a deviation threshold.
@@ -26,3 +27,7 @@ The project compares four training datasets with a set of predefined ideal funct
 - Assigned test data points
 - SQLite database containing results
 - Visualizations illustrating model fit and assignments
+
+# least-squares-ideal-functions
+Python implementation for selecting ideal functions using least squares and deviation thresholds.
+ a2f9b658f2c0878c7aa0c87a6201ade10173ddef
