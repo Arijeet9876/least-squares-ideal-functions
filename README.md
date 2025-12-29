@@ -15,11 +15,15 @@ The project compares four training datasets with a set of predefined ideal funct
 - SQLAlchemy
 
 ## How to Run
-1. Place the CSV files in the `data/` directory.
-2. Install required dependencies.
-3. Run the main program:
+1. Install dependencies using:
+         
+    pip install -r requirements.txt
+
+2. Place the CSV files in the `data/` directory.
+3. Install required dependencies.
+4. Run the main program:
       
-      python src/main.py
+    python src/main.py
 
 
 ## Output
